@@ -6,6 +6,7 @@ Prerequisites:
 - Python 3.9.7,
 - mathplotlib,
 - tkinter, 
+- basemap,
 - pyodbc.
 
 The database:
