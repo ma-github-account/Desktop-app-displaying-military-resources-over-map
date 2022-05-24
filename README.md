@@ -1,4 +1,4 @@
-The application displays strategic military resources positions on the map of the Ukraine.
+The application displays strategic military resources positions on the map of Ukraine.
 User chooses map region, map type and map settings. After clicking Reload map is displayed.
 The coordinates of the resources are stored in the database and uploaded from it before displaying map.
 
